@@ -31,3 +31,9 @@ Welcome to the website for JOUR 561: Fundamentals of Data                   Jour
 
 
 ```
+
+---
+
+Us in this class when learning about new datasets we can FOIA:
+
+![](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
