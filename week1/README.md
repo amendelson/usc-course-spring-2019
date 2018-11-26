@@ -12,8 +12,11 @@ We'll also do some housekeeping and get to know one another.
 Links:
 
 [QGIS](https://download.qgis.org/)
+
 [R Studio](https://www.rstudio.com/products/rstudio/download/)
+
 [R](https://cran.rstudio.com/)
+
 [Arrest data](https://data.lacity.org/A-Safe-City/Arrest-Data-from-2010-to-Present/yru6-6re4)
 
 ---
