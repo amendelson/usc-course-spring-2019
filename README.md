@@ -5,7 +5,7 @@ Here is [the class syllabus](docs/syllabus.pdf).
 
 The class meets 6:30 to 8:30 on Wednesday nights, and the final is on May 1 from 7-9 p.m.
 
-### Class links
+## Class links
 
 * [Week One](week1/): Course overview. Introductions.
 * [Week Two](week2/): Class Project discussion.
