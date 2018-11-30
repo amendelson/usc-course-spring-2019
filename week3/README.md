@@ -11,7 +11,7 @@ This week, we're diving head first into mapping.
 
 ### Hands-on
 
-[Link to pre-k data](data/prek_sites.csv)
+[Link to pre-k data](/data/prek_sites.csv)
 
 ---
 
