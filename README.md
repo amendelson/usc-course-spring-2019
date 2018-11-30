@@ -7,7 +7,7 @@ The class meets 6:30 to 8:30 on Wednesday nights, and the final is on May 1 from
 
 ## Class links
 
-* [Week One](week1/): Course overview. Introductions.
+* **[Week One](week1/)**: Course overview. Introductions.
 * Week Two: Class Project discussion.
 * Week Three: Mapping Part 1 – Buffers on steroids, spatial queries and spatial joins.
 * Week Four: Class Project discussion.
