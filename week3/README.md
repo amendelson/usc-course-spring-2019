@@ -1,4 +1,4 @@
-# Week TK
+# Week 3
 This week, we're diving head first into mapping.
 
 ---
