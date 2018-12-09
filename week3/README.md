@@ -90,7 +90,4 @@ Let's open up the attribute table and see what actually happened under the hood.
 ---
 
 ### Homework
-
-**Final Project Milestone: Submit story pitch for group data story, including ideas for story and graphic.**
-
-Due by SUNDAY at 5.
+* Submit story pitch for group data story, including ideas for story and graphic. Due by SUNDAY @ 5.
