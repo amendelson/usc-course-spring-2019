@@ -21,6 +21,8 @@ What do you do?
 
 We'll go over how to wrangle that. And then you'll fire up QGIS to make a map of the rate by California county.
 
+...
+
 If we have time, we'll also make a comparison to February 2009.
 
 ([Here is something we might need later](https://data.ca.gov/dataset/ca-geographic-boundaries/resource/091ff50d-bb24-4537-a974-2ce89c6e8663)) 
@@ -30,9 +32,10 @@ If we have time, we'll also make a comparison to February 2009.
 ### Links
 
 * An example of [cool stuff](http://graphics.latimes.com/calmap-california-county-unemployment/) you can do with unemployment data.
-* Quartz [How the unemployment rate can mislead](https://qz.com/877432/the-us-unemployment-rate-measure-is-deceptive-and-doesnt-need-to-be/)
+* Quartz on [how the unemployment rate can mislead](https://qz.com/877432/the-us-unemployment-rate-measure-is-deceptive-and-doesnt-need-to-be/)
 
 ---
 
 ### Homework
 
+* You are working on your Final Project
