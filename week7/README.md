@@ -15,7 +15,9 @@ We're going to learn how to build an interactive map, following [this tutorial](
 
 Leaflet is a popular library for creating maps — and it's open source. We're pro-maps and pro-open source in this class.
 
-Download [this index.html file](index.html) to get started with the tutorial. We'll go through it together, step by step.
+Download [this index.html file](files/index.html) to get started with the tutorial. We'll go through it together, step by step.
+
+*Here's [a finished version](files/finished.html) of the file*.
 
 ---
 
