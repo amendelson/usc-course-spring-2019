@@ -46,3 +46,13 @@ Geocoding services
 * [US Census](https://geocoding.geo.census.gov/): Free! But not the most accurate option. US addresses only.
 * [Google Maps API](https://developers.google.com/maps/documentation/geocoding/start): Very accurate (but not perfect). 2,500 free geocodes per day. Pay beyond that. API Key required
 * [Geocodio](https://www.geocod.io/): API or upload. Fast, relatively cheap, accurate.
+
+---
+
+### Homework
+
+Install some stuff, create some accounts.
+
+* R: [Go here](https://cran.cnr.berkeley.edu/) to install R
+* Github: [Go here](https://github.com/) to create a Github account. Or, if you already have one, log in to amke sure you know the username and password.
+* Miniconda: [Go here](https://conda.io/miniconda.html) to download and install. Download the `python 2.7` version.
