@@ -57,7 +57,13 @@ Now try ```ls``` again.
 
 OK, now we want to get our notebook up and running. But there's a catch.
 
-R, our programming language of choice, doesn't come pre-installed on Jupyter notebooks.
+We need to download Jupyter first.
+
+```
+pip install jupyter
+```
+
+And oh, by the way, R, our programming language of choice, doesn't come pre-installed on Jupyter notebooks. This is the type of setup challenge that is common in coding. With a little googling and persistence, we can fix it.
 
 So let's install it. In the terminal, do this:
 
@@ -95,6 +101,121 @@ And type in:
 ```
 jupyter notebook
 ```
+
+And boom!
+
+**5. Wait, did my web browser just open up?**
+
+Yes it did. You use a Jupyter Notebook through the browser.
+
+Except it's not online—it's actually running "locally" — only on your computer. Pretty nifty.
+
+You should see all the files of wherever you directed your terminal window in step two. If it's in the right place, click on the "new" button and add an R notebook.
+
+**6. Test things out**
+
+The way Jupyter works is that you type your code into the gray cell, and then see the output below.
+
+Your work can continue in the *next* gray cell after that.
+
+Start by typing this in
+
+```
+demo(graphics)
+```
+
+Look familar?
+
+**7. Lets look at some data**
+
+Try this
+
+```
+head(mtcars)
+```
+
+Now this
+
+```
+head(mtcars, 25)
+```
+
+What's the difference?
+
+OK, how about
+
+```
+summary(mtcars)
+```
+
+Or
+
+```
+str(mtcars)
+```
+
+OK, now type each of these things in and see what happens
+
+```
+"I should exercise more."
+1+1
+1==2
+1:1000
+animals <- c("bears","monkeys","donkeys")
+animals[1]
+class(animals)
+class(1==2)
+class(1:1000)
+```
+
+**9. Explore some data**
+
+OK, let's go back to the cars data. What does this do.
+
+```
+mtcars$mpg
+```
+
+In that code, `mtcars` is our dataframe. And `mpg` is the vector of the dataframe. It's a column, basically.
+
+We can do math on the whole dataframe:
+
+```
+mtcars$mpg * 2
+
+```
+Alright, let's make a quick chart. In data journalism, you make approximately 100 charts for internal use and data exploration for every chart you actually publish. So here's a chart to explore the miles per gallon these cars get. 
+
+```
+hist(mtcars$mpg)
+```
+Cool! A histogram. So what's this showing us?
+
+Ok, here's a different type of graph:
+
+```
+plot(mtcars$mpg)
+```
+
+And we can plot two variables at once on a scatterplot.
+
+```
+plot(mtcars$hp, mtcars$mpg)
+```
+
+If you don't understand how something works in R, you can always put a quesiton mark in front of it to get the help box to pop up.
+
+```
+?plot
+```
+
+You can also plot every variable against every other variable:
+
+```
+pairs(mtcars)
+```
+
+Questions? If we have any extra time, we'll look at brining in some real life data...or commiting everything to Github.
 
 ---
 
