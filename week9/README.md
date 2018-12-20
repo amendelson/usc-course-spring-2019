@@ -53,6 +53,8 @@ $ cd ~/Desktop/code/
 
 Now try ```ls``` again.
 
+Neat. [Here is a list of common commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html) — worth bookmarking.
+
 **3. Setting up our notebook**
 
 OK, now we want to get our notebook up and running. But there's a catch.
@@ -215,6 +217,18 @@ You can also plot every variable against every other variable:
 pairs(mtcars)
 ```
 
+Now, so your prof can prepare for the rest of the course, type this in:
+
+```
+install.packages("tidyverse")
+```
+
+And then this:
+
+```
+library(tidyverse)
+```
+
 Questions? If we have any extra time, we'll look at brining in some real life data...or commiting everything to Github.
 
 ---
@@ -225,3 +239,4 @@ Questions? If we have any extra time, we'll look at brining in some real life da
 
 ### Homework
 
+* Mapping Assignment 3: I want you to map some data related to your Final Project. You've got two weeks to do it, so I expect something good.
