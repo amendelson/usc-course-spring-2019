@@ -80,18 +80,116 @@ filter(gapminder, pop > 20000000 & continent != "Americas" & gdpPercap <= 4000)
 
 ```
 
-How would you look for countries in Asia with high life expectancies?
+How would you look filer for countries in Asia with high life expectancies?
 
-**3. Select**
+**3. Arrange**
 
-**4. Charting**
+What if we want to see the countries with the highest life expectancies. Or the lowest? That's where *arrange* comes in.
 
+<img src ="imgs/3.png" width = 600>
+<img src ="imgs/4.png" width = 600>
+
+This nifty function reorders data however we tell it to. Try that:
+
+```
+arrange(gapminder, lifeExp)
+```
+
+You can also arrange from highest to lowest, or in descending order.
+
+```
+arrange(gapminder, desc(lifeExp))
+
+```
+
+**5. Piping**
+
+What if you want to do two things at once?
+
+You *could* do this
+
+```
+gapminder_2007 <- filter(gapminder, year == 2007)
+arrange(gapminder_2007, desc(lifeExp))
+```
+
+Or you could save yourself some time and energy, and embrace the pipe: **%>%**
+
+Basically, it transfers the last command you made to the next command.
+
+<img src ="imgs/5.png" width = 600>
+
+Let's try that ourselves
+
+```
+gapminder %>% filter(country == "Canada")
+```
+
+Awesome. But the power really comes in when you use it more than once.
+
+```
+gapminder %>%
+	filter(year == 2007) %>%
+	arrange(desc(lifeExp))
+```
+
+You can also use command shift M on a Mac or ctrl shift M on windows to get one.
+
+**6. Mutate**
+
+How can you create a new vector (a.k.a. column) on your data frame? By using *mutate*.
+
+Let's try it out, by looking at our dataframe first:
+
+```
+head(gapminder)
+```
+
+OK, so to get the GDP, we could do the following:
+
+```
+gapminder %>% mutate(gpd = gdpPercap * pop)
+```
+
+And what if we wanted to use a pipe to sort it?
+
+```
+gapminder %>% mutate(gdp = gdpPercap * pop) %>% arrange(desc(gdp))
+```
+
+
+**8. Charting**
+
+Let's make a quick chart by first using filter.
+
+```
+us <- filter(gapminder, country == "United States")
+```
+
+We're gonna feed that into **ggplot2**, the tidyverse's beloved package for creating charts.
+
+The syntax of ggplot is a little different, you'll notice it uses plus signs instead of the pipe. Try this out:
+
+```
+ggplot(us, aes(x = year, y = lifeExp)) +
+ geom_line()
+```
+
+And you know what? It's no harder to plot every country at once.
+
+```
+ggplot(gapminder, aes(x = year, y = lifeExp), group=country) +
+ geom_line()
+```
 
 ---
 
 ### Links
 
+* Hadley Wickham's [great tidyverse tutorials](https://github.com/hadley/data-science-in-tidyverse)
+
 ---
 
 ### Homework
 
+* **Final Project**: You should be working on drafts of story and graphics, looking for unanswered questions.
