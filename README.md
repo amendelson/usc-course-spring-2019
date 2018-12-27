@@ -1,6 +1,6 @@
 <h1 class="ml7">
   <span class="text-wrapper">
-    <span class="letters"><p id ="usc p">Data&nbsp;Journalism&nbsp;USC&nbsp;2019</p></span>
+    <span class="letters"><p id ="usc p">Data&nbsp;&nbsp;Journalism&nbsp;&nbsp;&nbsp;USC&nbsp;&nbsp;2019</p></span>
   </span>
 </h1>
 
@@ -12,7 +12,7 @@
 .ml7 {
   position: relative;
   font-weight: 1200;
-    background-image: linear-gradient(to right, #990000 , #FFCC00);   
+    background-image: linear-gradient(to right, #e66465, #9198e5);   
 
 }
 .ml7 .text-wrapper {
@@ -29,7 +29,7 @@
   transform-origin: 0 100%;
   display: inline-block;
   line-height: 1.3em;
-  font-size: 4.5em;
+  font-size: 4.2em;
   color: #FFFFFF
 }
 
