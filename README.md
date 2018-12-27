@@ -35,7 +35,7 @@
   transform-origin: 0 100%;
   display: inline-block;
   line-height: 1.3em;
-  font-size: 4em;
+  font-size: 3.6em;
   color: #FFFFFF
 }
 
