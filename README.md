@@ -1,8 +1,6 @@
-# JOUR 561: Fundamentals of Data                   Journalism Reporting
-
 <h1 class="ml7">
   <span class="text-wrapper">
-    <span class="letters">Reality is broken</span>
+    <span class="letters">Data Journalism USC 2019</span>
   </span>
 </h1>
 
@@ -13,8 +11,10 @@
 <style>
 .ml7 {
   position: relative;
-  font-weight: 900;
-  font-size: 3.7em;
+  font-weight: 1200;
+  font-size: 3.9em;
+    background-image: linear-gradient(to top, #990000 , #FFCC00);   
+
 }
 .ml7 .text-wrapper {
   position: relative;
@@ -23,11 +23,14 @@
   padding-right: 0.05em;
   padding-bottom: 0.1em;
   overflow: hidden;
+  padding-left: 14px;
+  
 }
 .ml7 .letter {
   transform-origin: 0 100%;
   display: inline-block;
   line-height: 1em;
+  color: #FFFFFF
 }
 </style>
 
