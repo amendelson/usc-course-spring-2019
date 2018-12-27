@@ -12,6 +12,7 @@
 .ml7 {
   position: relative;
   font-weight: 1200;
+  font-size: 5.9em;
     background-image: linear-gradient(to top, #990000 , #FFCC00);   
 
 }
@@ -30,11 +31,10 @@
   display: inline-block;
   line-height: 1.3em;
   color: #FFFFFF
-  font-size: 5.9em;
 }
 
 .usc-p{
- color:green;
+   font-size: 5.9em;
 }
 </style>
 
