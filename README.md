@@ -12,7 +12,7 @@
 .ml7 {
   position: relative;
   font-weight: 1200;
-  font-size: 3.9em;
+  font-size: 5.9em;
     background-image: linear-gradient(to top, #990000 , #FFCC00);   
 
 }
@@ -29,7 +29,7 @@
 .ml7 .letter {
   transform-origin: 0 100%;
   display: inline-block;
-  line-height: 1em;
+  line-height: 1.3em;
   color: #FFFFFF
 }
 </style>
@@ -48,7 +48,7 @@ anime.timeline({loop: true})
     translateX: ["0.55em", 0],
     translateZ: 0,
     rotateZ: [180, 0],
-    duration: 750,
+    duration: 1050,
     easing: "easeOutExpo",
     delay: function(el, i) {
       return 50 * i;
