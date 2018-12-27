@@ -12,8 +12,8 @@
 .ml7 {
   position: relative;
   font-weight: 1200;
-  font-size: 5.9em;
-    background-image: linear-gradient(to top, #990000 , #FFCC00);   
+  font-size: 4.5em;
+    background-image: linear-gradient(to right, #990000 , #FFCC00);   
 
 }
 .ml7 .text-wrapper {
@@ -24,12 +24,14 @@
   padding-bottom: 0.1em;
   overflow: hidden;
   padding-left: 14px;
+  font-size: 4.5em;
   
 }
 .ml7 .letter {
   transform-origin: 0 100%;
   display: inline-block;
   line-height: 1.3em;
+  font-size: 4.5em;
   color: #FFFFFF
 }
 
