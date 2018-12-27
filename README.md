@@ -1,6 +1,6 @@
 <h1 class="ml7">
   <span class="text-wrapper">
-    <span class="letters">Data Journalism USC 2019</span>
+    <span class="letters"><p id ="usc p">Data Journalism USC 2019</p></span>
   </span>
 </h1>
 
@@ -12,7 +12,6 @@
 .ml7 {
   position: relative;
   font-weight: 1200;
-  font-size: 5.9em;
     background-image: linear-gradient(to top, #990000 , #FFCC00);   
 
 }
@@ -31,6 +30,11 @@
   display: inline-block;
   line-height: 1.3em;
   color: #FFFFFF
+  font-size: 5.9em;
+}
+
+.usc-p{
+ color:green;
 }
 </style>
 
