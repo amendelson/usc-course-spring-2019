@@ -116,3 +116,8 @@ Or the percent of particles that are large. How would we do that?
 If we have any extra time, let's do Final Project updates.
 
 
+---
+
+### Homework
+
+* [Go to this page and register for a Census API Key](https://api.census.gov/data/key_signup.html)
