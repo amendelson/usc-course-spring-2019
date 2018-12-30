@@ -1,4 +1,5 @@
-<a href="https://amendelson.github.io/usc-course-spring-2019/"><div class="header">
+<a href="https://amendelson.github.io/usc-course-spring-2019/">
+<div class="header">
 <h1 class="ml7">
   <span class="text-wrapper">
     <span class="letters"><p id ="usc p">Data&nbsp;&nbsp;Journalism&nbsp;&nbsp;&nbsp;USC&nbsp;&nbsp;2019</p></span>
