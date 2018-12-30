@@ -74,7 +74,9 @@ Welcome to the website for JOUR 561: Fundamentals of Data                   Jour
 
 Here is [the class syllabus](docs/syllabus.pdf).
 
-The class meets 6:30 to 8:30 on Wednesday nights, and the final is on May 1 from 7-9 p.m.
+The class meets 6:30 to 8:30 on Wednesday nights. The final exam is on May 1 from 7-9 p.m.
+
+This class will involve the use of technical tools, and coding. But if you want to learn how to use mapping and data analysis to report great stories, you're in the right class. The journalism is the most important part. 
 
 ## Class links
 
