@@ -253,3 +253,4 @@ You can save your maps in raster image formats (JPG, PNG etc) from the Print Com
 	* Part 1: Change the color of the counties in the map, and the size of the circles. Export with the legend.
 	* Part 2: Using the data from the class exercise: write a memo for a story you could report. At least 200 words. Include your lede, 3 sources you could talk to, and a data visualization.
 * Final Project: You should be exploring your data set, looking for trends and limitations in the data.
+* Story memo: 50-100 words about Final Project progress over last week

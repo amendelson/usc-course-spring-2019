@@ -265,3 +265,4 @@ ggplot(gapminder, aes(x = year, y = lifeExp), group=country) +
 ### Homework
 
 * **Final Project**: You should be working on drafts of story and graphics, looking for unanswered questions.
+* Story memo: 50-100 words about Final Project progress over last week

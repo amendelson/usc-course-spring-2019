@@ -96,4 +96,4 @@ Some stories mentioned:
 ### Homework
 
 * **Important**: Sign up [using this spreadsheet](https://docs.google.com/spreadsheets/d/14IInAih3Vt4fj4e2IH1uIUXeJbnzcM8XhdVx9w-V8oc/edit?usp=sharing) to do a critique
-* Every group pitches 3 ideas by Sunday @ 5 PM
+* Final Project: Every group pitches 3 ideas by Sunday @ 5 PM

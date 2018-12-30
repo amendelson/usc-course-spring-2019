@@ -255,3 +255,4 @@ If we have extra time, we'll work on adding [popup text](https://rstudio.github.
 * Map a census dataset.
 	* [Go here](https://censusreporter.org) to explore datasets and find their table names.
 * I want to see different colors and basemaps on your map.
+* Final Project: You will get edits and feedback from instructor on your Data Story.

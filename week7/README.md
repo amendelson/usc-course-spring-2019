@@ -128,3 +128,6 @@ Once you do that, write a pitch of 150 words for a data story you could do with 
 If you run into technical troubles, email Aaron ASAP.
 
 **Due Sunday at 5 PM**.
+
+* Final Project: Your data should be set, and you should be reporting and writing as you go.
+* Story memo: 50-100 words about Final Project progress over last week

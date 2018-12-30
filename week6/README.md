@@ -111,3 +111,4 @@ If we have time, we'll also make a comparison to February 2009.
 ### Homework
 
 * You are working on your Final Project
+* Story memo: 50-100 words about Final Project progress over last week

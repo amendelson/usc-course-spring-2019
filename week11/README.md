@@ -284,3 +284,4 @@ And let's talk about how to save a chart you create in R.
 * R Data Viz Assignment. Using data from your Final Project create two charts using ggplot.
 	* If you need inspiration, use code from our walkthrough today. Or, take a look at some of these [simple ggplot2 examples](http://www.cookbook-r.com/Graphs/Bar_and_line_graphs_(ggplot2)/).
 	* Due on **Sunday by 5 PM**.
+* Story memo: 50-100 words about Final Project progress over last week

@@ -128,3 +128,4 @@ Install some stuff, create some accounts.
 * R: [Go here](https://cran.cnr.berkeley.edu/) to install R
 * Github: [Go here](https://github.com/) to create a Github account. Or, if you already have one, log in to amke sure you know the username and password.
 * Miniconda: [Go here](https://conda.io/miniconda.html) to download and install. Download the `python 2.7` version.
+* Story memo: 50-100 words about Final Project progress over last week

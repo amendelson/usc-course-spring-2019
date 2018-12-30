@@ -193,3 +193,4 @@ If we have any extra time, let's do Final Project updates.
 ### Homework
 
 * [Go to this page and register for a Census API Key](https://api.census.gov/data/key_signup.html)
+* Story memo: 50-100 words about Final Project progress over last week
