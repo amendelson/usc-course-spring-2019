@@ -95,7 +95,7 @@ There are a couple options [for how to do that](http://duspviz.mit.edu/tutorials
 
 **3. Check out how the free version of a paid service works**
 
-Point your browser [here](http://duspviz.mit.edu/tutorials/geocoding/)
+Point your browser [here](https://www.geocod.io/)
 
 **4. Open file up in QGIS**
 

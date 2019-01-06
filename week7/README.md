@@ -125,7 +125,7 @@ We will discuss how to do this in class.
 
 Once you do that, write a pitch of 150 words for a data story you could do with this information.
 
-If you run into technical troubles, email Aaron ASAP.
+If you run into technical troubles, let Aaron know ASAP.
 
 **Due Sunday at 5 PM**.
 

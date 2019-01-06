@@ -162,4 +162,4 @@ Let's open up the attribute table and see what actually happened under the hood.
 ---
 
 ### Homework
-* Submit story pitch for group data story, including ideas for story and graphic. Due by SUNDAY @ 5.
+* Submit story pitch for group data story, including ideas for story and graphic, and what datasets you could use. Due by SUNDAY @ 5.

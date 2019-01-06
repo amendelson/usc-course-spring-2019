@@ -93,13 +93,13 @@ library(tidyverse)
 
 **1. So what's tidy data?**
 
-<img src ="imgs/1.png" width = 600>
+<img src ="imgs/1.png" width = "600">
 
 It's easy to work with. For example, you can quickly calculate a per capita rate if you already have the population data right there.
 
 Here are the main functions we'll be working with.
 
-<img src ="imgs/2.png" width = 600>
+<img src ="imgs/2.png" width = "600">
 
 **2. Let's look at some untidy data**
 
@@ -131,7 +131,7 @@ Let's parse this
 
 And then run it oursevles.
 
-<img src ="imgs/3.png" width = 600>
+<img src ="imgs/3.png" width = "600">
 
 
 ```
@@ -171,7 +171,7 @@ Draw it out on your piece of paper.
 
 To make that happen, we need `spread`.
 
-<img src ="imgs/4.png" width = 600>
+<img src ="imgs/4.png" width = "600">
 
 ```
 pollution %>% spread(size, amount)
