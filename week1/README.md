@@ -99,3 +99,4 @@ We'll also do some housekeeping and get to know one another.
 
 * [Fill out the survey](https://docs.google.com/forms/d/e/1FAIpQLSe4a5ZWgu1Tde99acbMBysX4QuS0VWtYnp0cDQb97HWGfGq5w/viewform?usp=sf_link)
 * [Install or update QGIS](https://download.qgis.org/)
+* Email Aaron (aaron.a.mendelson@gmail.com) if you want to choose your own group for the Final Project
