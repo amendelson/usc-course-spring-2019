@@ -77,7 +77,7 @@ This week, we're going to talk about what makes a great data story, and how you 
 
 ### Lecture
 
-[Slides](https://docs.google.com/presentation/d/1NoKsLIV9dK4agyiTyc2XGbSux6WzJgpidJ5tLHQH8jc/edit#slide=id.g485785c734_0_240)
+[Slides](https://docs.google.com/presentation/d/1NoKsLIV9dK4agyiTyc2XGbSux6WzJgpidJ5tLHQH8jc/edit?usp=sharing)
 
 ---
 
