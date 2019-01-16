@@ -90,10 +90,12 @@ Some stories mentioned:
 * [Why Kevin Durant’s Shoes Keep Falling Off
 ](https://fivethirtyeight.com/features/why-kevin-durants-shoes-keep-falling-off/)
 * ['A tricky area of philanthropy': LA mayor solicits millions for his favored causes](https://www.scpr.org/news/2017/08/23/74917/la-mayor-garcetti-behested-payments/)
+* [The history of U.S.
+border apprehensions](https://www.washingtonpost.com/graphics/2019/national/trump-border-wall-arrests/)
 
 ---
 
 ### Homework
 
 * **Important**: Sign up [using this spreadsheet](https://docs.google.com/spreadsheets/d/14IInAih3Vt4fj4e2IH1uIUXeJbnzcM8XhdVx9w-V8oc/edit?usp=sharing) to do a critique
-* Final Project: Every group pitches 3 ideas by Sunday @ 5 PM
+* **Also important**: Final Project: Every group pitches 3 ideas by Sunday @ 5 PM
