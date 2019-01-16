@@ -75,6 +75,15 @@ This week, we're going to talk about what makes a great data story, and how you 
 
 ---
 
+### Survey responses
+
+<img src ="survey-1.png" width = 600>
+<img src ="survey-2.png" width = 600>
+<img src ="survey-3.png" width = 600>
+
+
+---
+
 ### Lecture
 
 [Slides](https://docs.google.com/presentation/d/1NoKsLIV9dK4agyiTyc2XGbSux6WzJgpidJ5tLHQH8jc/edit?usp=sharing)
