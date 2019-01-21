@@ -82,7 +82,7 @@ This class will involve the use of technical tools, and coding. But if you want 
 
 * **[Week One](week1/)**: Course overview. Introductions.
 * **[Week Two](week2/)**: Class Project discussion.
-* Week Three: Mapping Part 1 – Buffers on steroids, spatial queries and spatial joins.
+* **[Week Three](week3/)**: Mapping Part 1 – Buffers on steroids, spatial queries and spatial joins.
 * Week Four: Class Project discussion.
 * Week Five: Mapping Part 2 - Projections and the finer points of mapping.
 * Week Six: Mapping Part 3 – Using Open Street Map and Plug-Ins.
