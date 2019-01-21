@@ -85,7 +85,7 @@ This week, we're diving head first into mapping.
 
 **1. Download these**
 
-[Link to pre-k data](../week3/data/prek_sites.csv) | [Caltrans transpo GIS data](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/) (find the state highway data)
+[Link to pre-k data](../data/prek_sites.csv) | [Caltrans transpo GIS data](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/) (find the state highway data)
 
 **2. Unzip the highways shapefile and double click to open in QGIS**
 
