@@ -77,13 +77,14 @@ This week, we're going to go deeper into how you can use data in a story. And yo
 
 ### Lecture
 
-[Slides](https://docs.google.com/presentation/d/1SAIAJIpp8aEBRDGRytwSn5jl6ObeOlnaLxdhElPajqw/edit#slide=id.g499225d295_0_159)
+[Slides](https://docs.google.com/presentation/d/1SAIAJIpp8aEBRDGRytwSn5jl6ObeOlnaLxdhElPajqw/edit?usp=sharing)
 
 ---
 
 ### Hands-on
 
-* Group project discussions. Talk about
+* Group project discussions. Talk about:
+
 	* how to explore your data set
 	* what trends you want to look for
 	* what limitations are in the data
