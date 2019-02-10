@@ -89,15 +89,24 @@ You're the only data journalist around in the newsroom, and the editors want a m
 
 What do you do?
 
-[Start here](https://qz.com/877432/the-us-unemployment-rate-measure-is-deceptive-and-doesnt-need-to-be/).
+[Start here](https://data.edd.ca.gov/Labor-Force-and-Unemployment-Rates/Labor-Force-and-Unemployment-Rate-for-California-C/r8rw-9pxx).
 
-We'll go over how to wrangle that. And then you'll fire up QGIS to make a map of the rate by California county.
+We'll go over how to wrangle that and make a county-by-county map. 
+
+BTW, here is a [definition](https://web.archive.org/web/20061217002213/http://www.labormarketinfo.edd.ca.gov/article.asp?ARTICLEID=118) of *seasonally-adjusted*:
+
+> Over the course of a year, the size of the labor force, the levels of employment and unemployment, and other measures of labor market activity undergo fluctuations due to seasonal events including changes in weather, harvests, major holidays, and school schedules.  Because these seasonal events follow a more or less regular pattern each year, their influence on statistical trends can be eliminated by seasonally adjusting the statistics from month to month.  These seasonal adjustments make it easier to observe the cyclical*, underlying trend, and other nonseasonal movements in the series. 
+
+> As a general rule, the monthly employment and unemployment numbers reported in the news are seasonally adjusted data.  Seasonally adjusted data are useful when comparing several months of data. Annual average estimates are calculated from the not seasonally adjusted data series. 
+
+
+And then you'll use QGIS to make another map using the data.
+
+**Your editor demands a fresh angle on the unemployment rate, putting this month's numbers in historical context.** What can you come up with?
 
 ...
 
-If we have time, we'll also make a comparison to February 2009.
-
-([Here is something we might need later](https://data.ca.gov/dataset/ca-geographic-boundaries/resource/091ff50d-bb24-4537-a974-2ce89c6e8663)) 
+([Here is something we will need](https://data.ca.gov/dataset/ca-geographic-boundaries/resource/091ff50d-bb24-4537-a974-2ce89c6e8663)) 
 
 ---
 
