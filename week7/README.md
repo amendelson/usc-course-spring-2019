@@ -88,6 +88,12 @@ Leaflet is a popular library for creating maps — and it's open source. We're 
 
 Download [this index.html file](files/index.html) to get started with the tutorial. We'll go through it together, step by step.
 
+We'll also need this for the tutorial.
+
+```
+pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw
+```
+
 *Here's [a finished version](files/finished.html) of the file*.
 
 ---
