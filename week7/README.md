@@ -127,13 +127,13 @@ Pitch a story about Parks in LA. This one is more open ended:
 
 Open them up in QGIS. And determine what neighborhoods have the lowest amount of parkland within them.
 
-We will discuss how to do this in class.
+We will discuss how to do this in class. (If you want to take this assignment in a different direction on your own, feel free.)
 
-Once you do that, write a pitch of 150 words for a data story you could do with this information.
+Once you do that, write a pitch of 150 words for a data story you could do with this information. I also want you to export and send me a map from QGIS, like we did the other week.
 
 If you run into technical troubles, let Aaron know ASAP.
 
-**Due Sunday at 5 PM**.
+**Due Monday at 5 PM**.
 
 * Final Project: Your data should be set, and you should be reporting and writing as you go.
 * Story memo: 50-100 words about Final Project progress over last week
