@@ -120,14 +120,7 @@ Other/interactivity:
 
 **Mapping assignment 2**
 
-Pitch a story about Parks in LA. This one is more open ended:
-
-* Use [this GIS data about parks in Los Angeles](http://geohub.lacity.org/datasets/parks?geometry=-118.756%2C33.867%2C-117.817%2C34.067).
-* And use [this GIS data about the neighborhoods of LA](https://s3-us-west-2.amazonaws.com/mappingla.com/downloads/neighborhoods/la_city.shp.zip) (will begin download).
-
-Open them up in QGIS. And determine what neighborhoods have the lowest amount of parkland within them.
-
-We will discuss how to do this in class. (If you want to take this assignment in a different direction on your own, feel free.)
+We talked election maps this week. Now it's your turn to make one of your own.
 
 Once you do that, write a pitch of 150 words for a data story you could do with this information. I also want you to export and send me a map from QGIS, like we did the other week.
 
