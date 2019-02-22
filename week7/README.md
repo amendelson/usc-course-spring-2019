@@ -122,9 +122,19 @@ Other/interactivity:
 
 We talked election maps this week. Now it's your turn to make one of your own.
 
-Once you do that, write a pitch of 150 words for a data story you could do with this information. I also want you to export and send me a map from QGIS, like we did the other week.
+[Click here to download the data](https://amendelson.github.io/usc-course-spring-2019/data/prop64.zip) that you'll use.
 
-If you run into technical troubles, let Aaron know ASAP.
+What is it? It's precinct-level election results, from California's [landmark Proposition 64](https://ballotpedia.org/California_Proposition_64,_Marijuana_Legalization_(2016)) in 2016. That was the ballot measure that legalized recreational marijuana in the Golden State. The shapefile features precincts in Los Angeles County. Roughly 1 in 4 California voters lives here in L.A. County.
+
+I want you to **create and export a Prop 64 election map** in QGIS, with the following features:
+
+* A title
+* A legend
+* A text annotation, describing some takeaway or geographic trend in the election results map. [Here's how you make one](https://docs.qgis.org/2.14/fi/docs/user_manual/introduction/general_tools.html#annotation-tools)
+
+Once you do that, write a pitch of 100 words for a data story you could do with this information.
+
+Please send the map by 5 PM Monday.
 
 **Due Monday at 5 PM**.
 
