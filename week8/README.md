@@ -119,6 +119,10 @@ Geocoding services
 * [Google Maps API](https://developers.google.com/maps/documentation/geocoding/start): Very accurate (but not perfect). 2,500 free geocodes per day. Pay beyond that. API Key required
 * [Geocodio](https://www.geocod.io/): API or upload. Fast, relatively cheap, accurate.
 
+Article from lecture
+
+* [Digital maps' unsung hero: how the geocoder puts us on the grid](https://www.theguardian.com/technology/2014/jan/13/google-maps-geocoder)
+
 ---
 
 ### Homework
