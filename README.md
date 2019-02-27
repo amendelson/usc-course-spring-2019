@@ -87,7 +87,7 @@ This class will involve the use of technical tools, and coding. But if you want 
 * **[Week Five](week5/)**: Mapping Part 2 - Projections and the finer points of mapping.
 * **[Week Six](week6/)**: Mapping Part 3 – Using Open Street Map and Plug-Ins.
 * **[Week Seven](week7/)**: Mapping Part 4 – Interactive Maps. Class project discussion.
-* Week Eight: Bulk geocoding data with an API.
+* **[Week Eight](week8/)**: Bulk geocoding data with an API.
 * Week Nine: Overview of Jupyter Notebook and R Kernel. Using Markdown and Github.
 * Spring Break
 * Week Ten: Visualizing Data with ggplot2, Part 1 – faceting. Class project discussion.

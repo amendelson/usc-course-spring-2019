@@ -75,6 +75,19 @@ This week, we'll explore the wild world of geocoding.
 
 ---
 
+### HW revue
+
+You all put your own twist on this week's homework:
+
+<img src="imgs/ma1.png" width="500">
+<img src="imgs/ma2.png" width="500">
+<img src="imgs/ma3.png" width="500">
+<img src="imgs/ma4.png" width="500">
+<img src="imgs/ma5.png" width="500">
+<img src="imgs/ma6.png" width="500">
+
+---
+
 ### Lecture
 
 [Slides](https://docs.google.com/presentation/d/1qOnjRVqIvLJFLkA6Rs6fnn0HAJX3s7fY6wB9pVeiEIM/edit?usp=drive_web&ouid=110835133843102539405)
