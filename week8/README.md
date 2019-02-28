@@ -90,7 +90,7 @@ You all put your own twist on this week's homework:
 
 ### Lecture
 
-[Slides](https://docs.google.com/presentation/d/1qOnjRVqIvLJFLkA6Rs6fnn0HAJX3s7fY6wB9pVeiEIM/edit?usp=drive_web&ouid=110835133843102539405)
+[Slides](https://docs.google.com/presentation/d/1qOnjRVqIvLJFLkA6Rs6fnn0HAJX3s7fY6wB9pVeiEIM/edit?usp=sharing)
 
 ---
 
@@ -100,7 +100,7 @@ You all put your own twist on this week's homework:
 
 Let's grab data on shootings involving L.A. County Sheriff's deputies [here](https://data.lacounty.gov/Criminal/All-Shooting-Incidents-for-Deputy-Involved-Shootin/d5zc-33fr).
 
-You'll notice that this does have lat/lon. That'll come in handy when we want to see how accurate our geocodes are.
+Let's open and explore in Excel. You'll notice that this does have lat/lon. That'll come in handy when we want to see how accurate our geocodes are.
 
 **2. Learn about geocoding in QGIS**
 
@@ -139,6 +139,8 @@ Article from lecture
 ---
 
 ### Homework
+
+[**Fill out the Mid-Semester Survey**](https://goo.gl/forms/9oXNoWqCruyBkdTD3). Please complete by Wednesday at 5 PM.
 
 Install some stuff, create some accounts.
 
