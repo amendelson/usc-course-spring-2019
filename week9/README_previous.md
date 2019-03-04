@@ -129,22 +129,41 @@ Neat. [Here is a list of common commands](https://www.tjhsst.edu/~dhyatt/superap
 
 **3. Setting up our notebook**
 
-OK, now we want to get our notebook up and running. Let's see if it works right out of the gate.
+OK, now we want to get our notebook up and running. But there's a catch.
+
+We need to download Jupyter first.
 
 ```
-jupyter notebook
+pip install jupyter
 ```
 
-Yes? We're not going to use it right now, so close it if it worked.
+And oh, by the way, R, our programming language of choice, doesn't come pre-installed on Jupyter notebooks. This is the type of setup challenge that is common in coding. With a little googling and persistence, we can fix it.
 
-If not, we might switch over to the other version of miniconda.
-
-And oh, by the way, R, our programming language of choice, doesn't come pre-installed on Jupyter notebooks. This is the type of setup challenge that is common in coding. 
-
-Thankfully, [miniconda makes it easy](https://anaconda.org/chdoig/jupyter-and-conda-for-r/notebook). Try this:
+So let's install it. In the terminal, do this:
 
 ```
-conda install -c r r-essentials
+$ R
+```
+
+If you have R installed, you've opened it up. (Notice the dollar sign is gone.) Now run this:
+
+```
+install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
+ 
+```
+
+You'll have to pick a 'mirror' to install them.
+
+Now, let's install one more package, with the following code:
+
+```
+devtools::install_github('IRkernel/IRkernel')
+```
+
+Getting close. We need to run this to make the package available:
+
+```
+IRkernel::installspec(user = FALSE)
 ```
 
 **4. Opening up the notebook**
