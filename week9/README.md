@@ -137,7 +137,7 @@ jupyter notebook
 
 Yes? We're not going to use it right now, so close it if it worked.
 
-If not, we might switch over to the other version of miniconda.
+If not, we might switch over to the other version of miniconda. ([Or try this approach](https://www.firstpythonnotebook.org/virtualenv/index.html).)
 
 And oh, by the way, R, our programming language of choice, doesn't come pre-installed on Jupyter notebooks. This is the type of setup challenge that is common in coding. 
 
