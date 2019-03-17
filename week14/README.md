@@ -84,10 +84,9 @@ Yes, you can do GIS in R.
 
 Thoughts?
 
-**1. Fire up your Jupyter Notebook.**
+**1. Get started.**
 
-I'm not including the command today. Do you remember it? If not, where can you find it?
-
+Fire up R studio.
 
 Once you've got it up, run this.
 
@@ -228,8 +227,6 @@ We need to join that transportation data to our shapefile. Unfortunately, the sy
 ```
 states_with_rate <- sp::merge(states, transpo, by = "NAME")
 ```
-
-(May need to reopen using this if we get told we're using too much data `jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10`)
 
 Let's try this out.
 

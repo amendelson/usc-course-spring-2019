@@ -91,7 +91,7 @@ ggplot2 is based around three ideas. They make more sense in practice, but it's 
 
 We're using the the gapminder dataset again this week.
 
-First, fire up your Jupyter notebook. Then, we'll load everything we need and remind ourselves what this data looks like.
+First, fire up R Studio. Then, we'll load everything we need and remind ourselves what this data looks like.
 
 ```
 library(tidyverse)

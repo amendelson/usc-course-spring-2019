@@ -85,7 +85,7 @@ This week, we're talking about the importance of **tidy** data ... and how to ma
 
 We're going to be learning about tidy data from the creator of the tidyverse, Hadley Wickham. This tutorial is adapted from his [Data Science in the Tidyverse](https://github.com/hadley/data-science-in-tidyverse/tree/master/slides) workshop.
 
-Begin by firing up your Jupyter Notebook. Load the tidyverse library
+Begin by firing up R studio. Load the tidyverse library
 
 ```
 library(tidyverse)

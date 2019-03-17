@@ -292,6 +292,7 @@ Questions? If we have any extra time, we'll look at brining in some real life da
 
 ### Homework
 
-* Mapping Assignment 3: I want you to map some data related to your Final Project. Doesn't have to be something you'll necessarily use in your Final Project, just something related. Every group member needs to make their own map.
+* Mapping Assignment 3: I want you to map a dataset related to your Final Project. Every group member needs to make their own map.
 	* You've got two weeks to do it, so I expect something good.
+	* The data doesn't have to be something you'll necessarily use in your Final Project, just something related. But it's a good opportunity to make a draft of something you'll use later.
 * Story memo: 50-100 words about Final Project progress over last week

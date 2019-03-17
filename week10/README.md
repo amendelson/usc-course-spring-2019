@@ -85,12 +85,6 @@ No lecture. All coding!
 
 **1. Getting started**
  
-Alright, fire up Terminal or PowerShell. Let's navigate to where you want to save your code, and fire up a Jupyter Notebook:
-
-```
-juptyer notebook
-```
-
 Let's install and load a couple packages we'll need today.
 
 ```
