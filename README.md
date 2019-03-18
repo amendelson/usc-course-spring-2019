@@ -80,7 +80,7 @@ anime.timeline({loop: true})
 </script>
 
 <script>
-var end = new Date('04/03/2019 5:1 PM');
+var end = new Date('04/07/2019 5:00 PM');
 
     var _second = 1000;
     var _minute = _second * 60;
@@ -104,7 +104,7 @@ var end = new Date('04/03/2019 5:1 PM');
         var seconds = Math.floor((distance % _minute) / _second);
 
         document.getElementById('countdown').innerHTML = days + ' days ';
-        document.getElementById('countdown').innerHTML += hours + ' hrs ';
+        document.getElementById('countdown').innerHTML += hours + ' hours ';
         document.getElementById('countdown').innerHTML += minutes + ' mins until Final Project drafts are due';
 
     }
@@ -113,6 +113,8 @@ var end = new Date('04/03/2019 5:1 PM');
 </script>
 <div id="countdown"> 
 </div>
+
+<br>
 
 Welcome to the website for JOUR 561: Fundamentals of Data                   Journalism Reporting. You'll find links to course materials here. You can get to this page by typing in `http://tiny.cc/usc-data` in your browser's address bar.
 
