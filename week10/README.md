@@ -105,6 +105,7 @@ Let's use some of the commands we learned last week to figure out what `gapminde
 head(gapminder)
 summary(gapminder)
 str(gapminder)
+glimpse(gapminder)
 ```
 
 Let's try a new one
@@ -155,7 +156,7 @@ What if we want to see the countries with the highest life expectancies. Or the 
 <img src ="imgs/3.png" width = 600>
 <img src ="imgs/4.png" width = 600>
 
-This nifty function reorders data however we tell it to. Try that:
+We just saw it, but worth reiterating: This nifty function reorders data however we tell it to. Try that:
 
 ```
 arrange(gapminder, lifeExp)
@@ -241,12 +242,15 @@ ggplot(us, aes(x = year, y = lifeExp)) +
  geom_line()
 ```
 
-And you know what? It's no harder to plot every country at once.
+And you know what? It's not really any harder to plot every country in the Americas at once.
 
 ```
-ggplot(gapminder, aes(x = year, y = lifeExp), group=country) +
- geom_line()
+gapminder %>% filter(continent == "Americas") %>% ggplot(aes(x=year, y=lifeExp)) + geom_line(aes(color=country), lwd=1.5, alpha=.65)
 ```
+
+What else could we do here?
+
+Can we make a small multiples chart?
 
 ---
 
@@ -258,5 +262,5 @@ ggplot(gapminder, aes(x = year, y = lifeExp), group=country) +
 
 ### Homework
 
-* **Final Project**: You should be working on drafts of story and graphics, looking for unanswered questions.
+* **Final Project**: You should be working on drafts of story and graphics, looking for unanswered questions. The rough draft is due in just 18 days!
 * Story memo: 50-100 words about Final Project progress over last week

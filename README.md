@@ -39,6 +39,15 @@
   color: #FFFFFF
 }
 
+#countdown {
+  line-height: 1.3em;
+  font-size: 3.9em;
+  background: -webkit-linear-gradient(#e66465, #9198e5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+
+}
 
 </style>
 
@@ -70,6 +79,41 @@ anime.timeline({loop: true})
   });
 </script>
 
+<script>
+var end = new Date('04/03/2019 5:1 PM');
+
+    var _second = 1000;
+    var _minute = _second * 60;
+    var _hour = _minute * 60;
+    var _day = _hour * 24;
+    var timer;
+
+    function showRemaining() {
+        var now = new Date();
+        var distance = end - now;
+        if (distance < 0) {
+
+            clearInterval(timer);
+            document.getElementById('countdown').innerHTML = 'EXPIRED!';
+
+            return;
+        }
+        var days = Math.floor(distance / _day);
+        var hours = Math.floor((distance % _day) / _hour);
+        var minutes = Math.floor((distance % _hour) / _minute);
+        var seconds = Math.floor((distance % _minute) / _second);
+
+        document.getElementById('countdown').innerHTML = days + ' days ';
+        document.getElementById('countdown').innerHTML += hours + ' hrs ';
+        document.getElementById('countdown').innerHTML += minutes + ' mins until Final Project drafts are due';
+
+    }
+
+    timer = setInterval(showRemaining, 1000);
+</script>
+<div id="countdown"> 
+</div>
+
 Welcome to the website for JOUR 561: Fundamentals of Data                   Journalism Reporting. You'll find links to course materials here. You can get to this page by typing in `http://tiny.cc/usc-data` in your browser's address bar.
 
 Here is [the class syllabus](docs/syllabus.pdf).
@@ -90,7 +134,7 @@ This class will involve the use of technical tools, and coding. But if you want 
 * **[Week Eight](week8/)**: Bulk geocoding data with an API.
 * **[Week Nine](week9/)**: Overview of Jupyter Notebook and R Kernel. Using Markdown and Github.
 * Spring Break
-* Week Ten: Visualizing Data with ggplot2, Part 1 – faceting. Class project discussion.
+* **[Week Ten](week10/)**: Visualizing Data with ggplot2, Part 1 – faceting. Class project discussion.
 * Week Eleven: Visualizing Data with ggplot2, Part 2 – layers and interactivity.
 * Week Twelve: Writing functions and loops in R.
 * Week Thirteen: Tidyuniverse in R – cleaning and transforming data.
