@@ -396,6 +396,6 @@ govs %>% ggplot(aes(y = reorder(Governor, num_in_office), x = Date.of.birth, xen
 ### Homework
 
 * R Data Viz Assignment. Using data from your Final Project create two charts using ggplot.
-	* If you need inspiration, use code from our walkthrough today. Or, take a look at some of these [simple ggplot2 examples](http://www.cookbook-r.com/Graphs/Bar_and_line_graphs_(ggplot2)/).
+	* If you need inspiration, use code from our walkthrough today. Or, take a look at some of these [simple cool R chart examples](https://www.r-graph-gallery.com/).
 	* Due on **Sunday by 5 PM**.
 * Story memo: 50-100 words about Final Project progress over last week
