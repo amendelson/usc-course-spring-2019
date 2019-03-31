@@ -85,7 +85,7 @@ This week, we're talking about the importance of **tidy** data ... and how to ma
 
 Let's talk about functions and for loops by building off our scraping work last week.
 
-I've packaged everything we did into a single R script, [available here](/week12/govs_scraping.R). Download the file.
+I've packaged everything we did into a single R script, [available here](/https://github.com/amendelson/usc-course-spring-2019/blob/gh-pages/week12/govs_scraping.R). Download the file.
 
 Let's see how you can run R from the command line. Open up your terminal or powershell. Type in `R` to launch R.
 
@@ -123,18 +123,42 @@ Great. If we just wanted a count, not all the columns, we could do this.
 govs %>% filter(Date.of.birth < mdy("01-01-1900") & Date.of.death > mdy("01-01-1900")) %>% nrow()
 ```
 
+Ok, here is what we're going to do. But let's unpack it for a given `i` before we run the whole function. There is a lot going on here.
+
+```
+alive_stats <- data.frame()
+
+for (i in 1750:2017) {
+
+	begin <- mdy(paste("01-01-",i,sep=""))
+	end <- mdy(paste("01-01-",(i+1),sep=""))
+	
+	count_alive <- govs %>% filter(Date.of.birth < begin & Date.of.death > end) %>% nrow() %>% as.numeric()
+	
+	alive_stats <- rbind(count_alive, alive_stats)
+	
+	alive_stats$yr[1] <- i
+
+}
+```
+
+Let's rename that first column.
+
+```
+colnames(alive_stats)[1] <- c("count")
+```
+
+And of course, we can plot this out.
+
+```
+alive_stats %>% ggplot(aes(x=yr, y=count)) + geom_bar(stat="identity")
+```
 
 
 ### Hands-on — Part 2
 
 
 We're going to be learning about tidy data from the creator of the tidyverse, Hadley Wickham. This tutorial is adapted from his [Data Science in the Tidyverse](https://github.com/hadley/data-science-in-tidyverse/tree/master/slides) workshop.
-
-Begin by firing up R studio. Load the tidyverse library
-
-```
-library(tidyverse)
-```
 
 **1. So what's tidy data?**
 
