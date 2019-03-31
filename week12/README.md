@@ -87,6 +87,44 @@ Let's talk about functions and for loops by building off our scraping work last 
 
 I've packaged everything we did into a single R script, [available here](/week12/govs_scraping.R). Download the file.
 
+Let's see how you can run R from the command line. Open up your terminal or powershell. Type in `R` to launch R.
+
+It should look a little different. If it does, type a version of this in, making an adjustment for the location of the R script you just downloaded.
+
+```
+source("~/data-path-to-your-file/govs_scraping.r", echo = TRUE)
+```
+
+Cool, right?
+
+Now let's fire up R Studio and try the exact same line of code.
+
+```
+source("~/data-path-to-your-file/govs_scraping.r", echo = TRUE)
+```
+
+Should've done the same thing. And now you've got the dataframe loaded in your environment.
+
+OK, now we want to answer the question: **during what year were the most governors alive at the same time?**
+
+How would we do that, just conceptually?
+
+...
+
+Let's start our journey by just testing out one year, to see which governors were alive then.
+
+```
+govs %>% filter(Date.of.birth < mdy("01-01-1900") & Date.of.death > mdy("01-01-1900"))
+```
+
+Great. If we just wanted a count, not all the columns, we could do this.
+
+```
+govs %>% filter(Date.of.birth < mdy("01-01-1900") & Date.of.death > mdy("01-01-1900")) %>% nrow()
+```
+
+
+
 ### Hands-on — Part 2
 
 
