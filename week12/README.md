@@ -81,7 +81,14 @@ This week, we're talking about the importance of **tidy** data ... and how to ma
 
 ---
 
-### Hands-on
+### Hands-on — Part 1
+
+Let's talk about functions and for loops by building off our scraping work last week.
+
+I've packaged everything we did into a single R script, [available here](/week12/govs_scraping.R). Download the file.
+
+### Hands-on — Part 2
+
 
 We're going to be learning about tidy data from the creator of the tidyverse, Hadley Wickham. This tutorial is adapted from his [Data Science in the Tidyverse](https://github.com/hadley/data-science-in-tidyverse/tree/master/slides) workshop.
 
