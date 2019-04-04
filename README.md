@@ -138,7 +138,7 @@ This class will involve the use of technical tools, and coding. But if you want 
 * Spring Break
 * **[Week Ten](week10/)**: Visualizing Data with ggplot2, Part 1 – faceting. Class project discussion.
 * **[Week Eleven](week11/)**: Visualizing Data with ggplot2, Part 2 – layers and interactivity.
-* Week Twelve: Writing functions and loops in R.
+* **[Week Twelve](week12/)**: Writing functions and loops in R.
 * Week Thirteen: Tidyuniverse in R – cleaning and transforming data.
 * Week Fourteen: Tidyuniverse in R – modeling data. Class project discussion.
 * Week Fifteen: TidyCensus in R – the best way to reign in Census data.
