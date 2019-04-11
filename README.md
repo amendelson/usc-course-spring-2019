@@ -80,7 +80,7 @@ anime.timeline({loop: true})
 </script>
 
 <script>
-var end = new Date('04/07/2019 5:00 PM');
+var end = new Date('05/05/2019 5:00 PM');
 
     var _second = 1000;
     var _minute = _second * 60;
@@ -139,7 +139,7 @@ This class will involve the use of technical tools, and coding. But if you want 
 * **[Week Ten](week10/)**: Visualizing Data with ggplot2, Part 1 – faceting. Class project discussion.
 * **[Week Eleven](week11/)**: Visualizing Data with ggplot2, Part 2 – layers and interactivity.
 * **[Week Twelve](week12/)**: Writing functions and loops in R.
-* Week Thirteen: Tidyuniverse in R – cleaning and transforming data.
+* **[Week Thirteen](week13/)**: Guest speaker
 * Week Fourteen: Tidyuniverse in R – modeling data. Class project discussion.
 * Week Fifteen: TidyCensus in R – the best way to reign in Census data.
 * Final
