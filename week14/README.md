@@ -80,7 +80,7 @@ Yes, you can do GIS in R.
 
 ### Hands-on
 
-####Part one: Github
+###Part one: Github
 
 Let's download [the file we used to scrape the governor data](https://github.com/amendelson/usc-course-spring-2019/blob/gh-pages/week12/govs_scraping.R).
 
@@ -180,7 +180,7 @@ I keep [this cheatsheet at my desk for answering Github Qs](https://github.githu
 
 We'll come back to Github later, but for now ... let's map in R!
 
-####Part two: Mapping
+### Part two: Mapping
 
 **0. Why would you ever use R to do GIS work**
 
