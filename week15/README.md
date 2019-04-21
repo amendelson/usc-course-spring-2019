@@ -73,7 +73,8 @@ anime.timeline({loop: true})
 
 # Week 15
 
-By popular demand, we'll be spending some more time with R, getting more practice with Github
+By popular demand, we'll be spending some more time with R, getting more practice with Github, and exploring other ways to use R.
+
 ---
 
 ## Hands-on
