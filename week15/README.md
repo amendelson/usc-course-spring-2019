@@ -280,7 +280,7 @@ Let's commit again to Github. And with any remaining time we can
 
 2) explore some of those widgets
 
-3)or check out a couple of wild R packages that caught your prof's eye recently, [Mapdeck](https://symbolixau.github.io/mapdeck/articles/layers.html) and [Rayshader](https://www.rayshader.com/)
+3) or check out a couple of wild R packages that caught your prof's eye recently, [Mapdeck](https://symbolixau.github.io/mapdeck/articles/layers.html) and [Rayshader](https://www.rayshader.com/)
 
 ---
 
