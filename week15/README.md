@@ -73,8 +73,7 @@ anime.timeline({loop: true})
 
 # Week 15
 
-By popular demand, we'll be spending some more time with R. And some time in space, depending on how fast things go.
-
+By popular demand, we'll be spending some more time with R, getting more practice with Github
 ---
 
 ## Hands-on
@@ -269,8 +268,7 @@ Let's get rid of a couple vectors we don't need, and use it.
 ```{r}
 lac_tidy$geometry <- NULL
 lac_tidy$GEOID <- NULL
-datatable(lac_tidy)
-```
+datatable(lac_tidy)```
 ```
 
 This is one of [many great htmlwidets in R](https://www.htmlwidgets.org/showcase_datatables.html) that make creating things for the internet a breeze.
@@ -284,9 +282,6 @@ Let's commit again to Github. And with any remaining time we can
 ---
 
 ### Homework
-
-
-* FINAL PROJECT IS DUE **Tuesday, April 30, at 5 PM**. That's less than a week away. 
 
 <div class ="header">
 <script>
@@ -320,6 +315,7 @@ var end = new Date('04/30/2019 5:00 PM');
     }
 
     timer = setInterval(showRemaining, 1000);
-</script>
-<div id="countdown"> 
+</script><h1>
+<div id="countdown">
+</h1>
 </div>
