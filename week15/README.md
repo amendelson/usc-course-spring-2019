@@ -277,7 +277,9 @@ This is one of [many great htmlwidets in R](https://www.htmlwidgets.org/showcase
 Let's commit again to Github. And with any remaining time we can 
 
 1) meet in Final Project groups
+
 2) explore some of those widgets
+
 3)or check out a couple of wild R packages that caught your prof's eye recently, [Mapdeck](https://symbolixau.github.io/mapdeck/articles/layers.html) and [Rayshader](https://www.rayshader.com/)
 
 ---
