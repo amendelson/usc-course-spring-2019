@@ -141,7 +141,7 @@ This class will involve the use of technical tools, and coding. But if you want 
 * **[Week Twelve](week12/)**: Writing functions and loops in R.
 * **[Week Thirteen](week13/)**: Guest speaker
 * **[Week Fourteen](week14/)**: Tidyuniverse in R – modeling data. Class project discussion.
-* Week Fifteen: TidyCensus in R – the best way to reign in Census data.
+* **[Week Fifteen](week15/)**: TidyCensus in R – the best way to reign in Census data.
 * Final
 
 
